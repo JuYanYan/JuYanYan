@@ -1,4 +1,4 @@
-### ### Hey! Comrade! 👋
+## Hey! Comrade! 👋
 
 ![Github state](https://github-readme-stats.vercel.app/api?username=JuYanYan)
 
