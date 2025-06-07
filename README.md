@@ -1,7 +1,7 @@
-## Hey! Comrade! 👋
+👋 Hi, I’m @JuYanYan
 
-![Github state](https://github-readme-stats.vercel.app/api?username=JuYanYan)
+ * Power electronics
+ 
+![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JuYanYan&layout=compact&include_all_commits=true&theme=merko)
 
-- 🔭 A programming language player :-)
-- 🌱 I'm majoring in automation now, however, I will still stick to the theory of computer science.
-
+![Github state](https://github-readme-stats.vercel.app/api?username=JuYanYan&count_private=true&show_icons=true&theme=merko)
